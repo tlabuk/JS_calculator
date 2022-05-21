@@ -31,7 +31,3 @@ buttons.forEach((elem) => {
     elem.addEventListener('click', calculate);
      
 });
-
-// else if(num1 == 'null' && num2 == 'null' && (buttonValue === '+' || buttonValue === '-' || buttonValue === '*' || buttonValue === '/')) {
-   //    resultPlace.innerHTML = 0;
-   // }
